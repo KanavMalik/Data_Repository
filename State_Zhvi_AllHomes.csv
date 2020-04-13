@@ -1,0 +1,1141 @@
+State,Time_Series,HPI
+California,1996-04,159574
+California,1996-05,159095
+California,1996-06,158721
+California,1996-07,158661
+California,1996-08,158799
+California,1996-09,159073
+California,1996-10,159306
+California,1996-11,159416
+California,1996-12,159567
+California,1997-01,159870
+California,1997-02,160110
+California,1997-03,160321
+California,1997-04,160380
+California,1997-05,160682
+California,1997-06,161121
+California,1997-07,161929
+California,1997-08,162867
+California,1997-09,163940
+California,1997-10,164752
+California,1997-11,165585
+California,1997-12,166460
+California,1998-01,168052
+California,1998-02,169699
+California,1998-03,171215
+California,1998-04,172154
+California,1998-05,173077
+California,1998-06,174199
+California,1998-07,175446
+California,1998-08,176842
+California,1998-09,178342
+California,1998-10,179711
+California,1998-11,180918
+California,1998-12,181808
+California,1999-01,183134
+California,1999-02,184472
+California,1999-03,185867
+California,1999-04,186873
+California,1999-05,187985
+California,1999-06,189536
+California,1999-07,191427
+California,1999-08,193159
+California,1999-09,194686
+California,1999-10,196200
+California,1999-11,198009
+California,1999-12,199818
+California,2000-01,201680
+California,2000-02,203394
+California,2000-03,205282
+California,2000-04,207256
+California,2000-05,209478
+California,2000-06,211964
+California,2000-07,214818
+California,2000-08,217872
+California,2000-09,220916
+California,2000-10,223551
+California,2000-11,226126
+California,2000-12,228505
+California,2001-01,230644
+California,2001-02,232788
+California,2001-03,235270
+California,2001-04,238099
+California,2001-05,240738
+California,2001-06,243127
+California,2001-07,245689
+California,2001-08,248322
+California,2001-09,250938
+California,2001-10,253113
+California,2001-11,255085
+California,2001-12,256767
+California,2002-01,258228
+California,2002-02,259814
+California,2002-03,261798
+California,2002-04,264351
+California,2002-05,267325
+California,2002-06,270744
+California,2002-07,275139
+California,2002-08,279852
+California,2002-09,284495
+California,2002-10,288447
+California,2002-11,292239
+California,2002-12,295757
+California,2003-01,298812
+California,2003-02,301586
+California,2003-03,304779
+California,2003-04,308471
+California,2003-05,312696
+California,2003-06,316404
+California,2003-07,321087
+California,2003-08,326187
+California,2003-09,331957
+California,2003-10,336843
+California,2003-11,341344
+California,2003-12,345410
+California,2004-01,349941
+California,2004-02,355105
+California,2004-03,361169
+California,2004-04,368003
+California,2004-05,376174
+California,2004-06,385340
+California,2004-07,394945
+California,2004-08,404000
+California,2004-09,412608
+California,2004-10,420284
+California,2004-11,426359
+California,2004-12,432137
+California,2005-01,437106
+California,2005-02,443125
+California,2005-03,449655
+California,2005-04,457285
+California,2005-05,464543
+California,2005-06,471280
+California,2005-07,478541
+California,2005-08,486127
+California,2005-09,493644
+California,2005-10,500021
+California,2005-11,504036
+California,2005-12,507205
+California,2006-01,509580
+California,2006-02,511855
+California,2006-03,514559
+California,2006-04,517048
+California,2006-05,520040
+California,2006-06,521890
+California,2006-07,523029
+California,2006-08,523722
+California,2006-09,522925
+California,2006-10,521436
+California,2006-11,519207
+California,2006-12,516811
+California,2007-01,514584
+California,2007-02,512292
+California,2007-03,510033
+California,2007-04,507780
+California,2007-05,504391
+California,2007-06,500883
+California,2007-07,496684
+California,2007-08,492686
+California,2007-09,487544
+California,2007-10,481314
+California,2007-11,474553
+California,2007-12,466796
+California,2008-01,459163
+California,2008-02,450049
+California,2008-03,439933
+California,2008-04,428745
+California,2008-05,417599
+California,2008-06,407303
+California,2008-07,397140
+California,2008-08,387796
+California,2008-09,379256
+California,2008-10,371551
+California,2008-11,363021
+California,2008-12,354571
+California,2009-01,346674
+California,2009-02,341795
+California,2009-03,337740
+California,2009-04,333958
+California,2009-05,330397
+California,2009-06,327537
+California,2009-07,326128
+California,2009-08,325051
+California,2009-09,324349
+California,2009-10,324112
+California,2009-11,325700
+California,2009-12,327868
+California,2010-01,329359
+California,2010-02,329178
+California,2010-03,330231
+California,2010-04,331826
+California,2010-05,333678
+California,2010-06,333005
+California,2010-07,331694
+California,2010-08,329710
+California,2010-09,327997
+California,2010-10,325634
+California,2010-11,323390
+California,2010-12,321753
+California,2011-01,320204
+California,2011-02,318693
+California,2011-03,316742
+California,2011-04,315112
+California,2011-05,312377
+California,2011-06,310604
+California,2011-07,309246
+California,2011-08,307544
+California,2011-09,305336
+California,2011-10,302722
+California,2011-11,301891
+California,2011-12,301048
+California,2012-01,300539
+California,2012-02,300123
+California,2012-03,300432
+California,2012-04,301522
+California,2012-05,303143
+California,2012-06,305197
+California,2012-07,307658
+California,2012-08,310309
+California,2012-09,313083
+California,2012-10,316496
+California,2012-11,320232
+California,2012-12,325560
+California,2013-01,330841
+California,2013-02,337127
+California,2013-03,343802
+California,2013-04,351229
+California,2013-05,358534
+California,2013-06,366032
+California,2013-07,373319
+California,2013-08,379978
+California,2013-09,385623
+California,2013-10,390666
+California,2013-11,395936
+California,2013-12,401042
+California,2014-01,406204
+California,2014-02,410653
+California,2014-03,413095
+California,2014-04,414131
+California,2014-05,414431
+California,2014-06,414877
+California,2014-07,415413
+California,2014-08,415127
+California,2014-09,415591
+California,2014-10,416912
+California,2014-11,419899
+California,2014-12,422786
+California,2015-01,425800
+California,2015-02,429008
+California,2015-03,432511
+California,2015-04,435032
+California,2015-05,437370
+California,2015-06,438920
+California,2015-07,439553
+California,2015-08,440628
+California,2015-09,442566
+California,2015-10,446115
+California,2015-11,449477
+California,2015-12,454252
+California,2016-01,458641
+California,2016-02,462495
+California,2016-03,464576
+California,2016-04,467147
+California,2016-05,469304
+California,2016-06,471409
+California,2016-07,471657
+California,2016-08,472738
+California,2016-09,474147
+California,2016-10,477700
+California,2016-11,481136
+California,2016-12,484682
+California,2017-01,488426
+California,2017-02,492250
+California,2017-03,495838
+California,2017-04,498844
+California,2017-05,501913
+California,2017-06,505043
+California,2017-07,505882
+California,2017-08,506599
+California,2017-09,508041
+California,2017-10,511924
+California,2017-11,516777
+California,2017-12,522093
+California,2018-01,527620
+California,2018-02,533196
+California,2018-03,537662
+California,2018-04,541053
+California,2018-05,543315
+California,2018-06,545262
+California,2018-07,545400
+California,2018-08,544961
+California,2018-09,544191
+California,2018-10,545256
+California,2018-11,546497
+California,2018-12,547165
+California,2019-01,547441
+California,2019-02,547495
+California,2019-03,547761
+California,2019-04,548908
+California,2019-05,549926
+California,2019-06,550883
+California,2019-07,549929
+California,2019-08,549218
+California,2019-09,549241
+California,2019-10,551306
+California,2019-11,553542
+California,2019-12,556815
+Florida,1996-04,100336
+Florida,1996-05,100387
+Florida,1996-06,100468
+Florida,1996-07,100563
+Florida,1996-08,100655
+Florida,1996-09,100746
+Florida,1996-10,100911
+Florida,1996-11,101127
+Florida,1996-12,101380
+Florida,1997-01,101648
+Florida,1997-02,101883
+Florida,1997-03,102063
+Florida,1997-04,102176
+Florida,1997-05,102308
+Florida,1997-06,102429
+Florida,1997-07,102579
+Florida,1997-08,102758
+Florida,1997-09,103036
+Florida,1997-10,103343
+Florida,1997-11,103721
+Florida,1997-12,104075
+Florida,1998-01,104957
+Florida,1998-02,105656
+Florida,1998-03,106227
+Florida,1998-04,106146
+Florida,1998-05,106168
+Florida,1998-06,106176
+Florida,1998-07,106283
+Florida,1998-08,106486
+Florida,1998-09,106934
+Florida,1998-10,107516
+Florida,1998-11,107984
+Florida,1998-12,108319
+Florida,1999-01,108542
+Florida,1999-02,108826
+Florida,1999-03,109104
+Florida,1999-04,109378
+Florida,1999-05,109678
+Florida,1999-06,110219
+Florida,1999-07,110845
+Florida,1999-08,111419
+Florida,1999-09,111847
+Florida,1999-10,112267
+Florida,1999-11,112837
+Florida,1999-12,113382
+Florida,2000-01,114002
+Florida,2000-02,114574
+Florida,2000-03,115213
+Florida,2000-04,115781
+Florida,2000-05,116333
+Florida,2000-06,116903
+Florida,2000-07,117505
+Florida,2000-08,118130
+Florida,2000-09,118835
+Florida,2000-10,119607
+Florida,2000-11,120461
+Florida,2000-12,121299
+Florida,2001-01,122154
+Florida,2001-02,122985
+Florida,2001-03,123824
+Florida,2001-04,124622
+Florida,2001-05,125475
+Florida,2001-06,126384
+Florida,2001-07,127429
+Florida,2001-08,128546
+Florida,2001-09,129743
+Florida,2001-10,130978
+Florida,2001-11,132174
+Florida,2001-12,133315
+Florida,2002-01,134413
+Florida,2002-02,135390
+Florida,2002-03,136328
+Florida,2002-04,137230
+Florida,2002-05,138235
+Florida,2002-06,139310
+Florida,2002-07,140449
+Florida,2002-08,141726
+Florida,2002-09,142995
+Florida,2002-10,144325
+Florida,2002-11,145587
+Florida,2002-12,146992
+Florida,2003-01,148423
+Florida,2003-02,149846
+Florida,2003-03,151246
+Florida,2003-04,152642
+Florida,2003-05,154104
+Florida,2003-06,155541
+Florida,2003-07,157015
+Florida,2003-08,158585
+Florida,2003-09,160283
+Florida,2003-10,162045
+Florida,2003-11,163763
+Florida,2003-12,165351
+Florida,2004-01,166975
+Florida,2004-02,168534
+Florida,2004-03,170265
+Florida,2004-04,172058
+Florida,2004-05,174250
+Florida,2004-06,176773
+Florida,2004-07,179632
+Florida,2004-08,182824
+Florida,2004-09,185997
+Florida,2004-10,189004
+Florida,2004-11,191776
+Florida,2004-12,194655
+Florida,2005-01,197727
+Florida,2005-02,200962
+Florida,2005-03,204626
+Florida,2005-04,208832
+Florida,2005-05,213548
+Florida,2005-06,218688
+Florida,2005-07,224233
+Florida,2005-08,229946
+Florida,2005-09,235416
+Florida,2005-10,240258
+Florida,2005-11,244626
+Florida,2005-12,248614
+Florida,2006-01,252358
+Florida,2006-02,255685
+Florida,2006-03,259382
+Florida,2006-04,263484
+Florida,2006-05,267282
+Florida,2006-06,270283
+Florida,2006-07,272107
+Florida,2006-08,273322
+Florida,2006-09,273560
+Florida,2006-10,273146
+Florida,2006-11,272346
+Florida,2006-12,271001
+Florida,2007-01,269555
+Florida,2007-02,268055
+Florida,2007-03,266527
+Florida,2007-04,264867
+Florida,2007-05,262774
+Florida,2007-06,260253
+Florida,2007-07,257244
+Florida,2007-08,254060
+Florida,2007-09,250791
+Florida,2007-10,247337
+Florida,2007-11,243579
+Florida,2007-12,239730
+Florida,2008-01,235465
+Florida,2008-02,231383
+Florida,2008-03,227049
+Florida,2008-04,223118
+Florida,2008-05,218803
+Florida,2008-06,214836
+Florida,2008-07,210667
+Florida,2008-08,206342
+Florida,2008-09,201914
+Florida,2008-10,197334
+Florida,2008-11,192763
+Florida,2008-12,188400
+Florida,2009-01,184334
+Florida,2009-02,180844
+Florida,2009-03,177566
+Florida,2009-04,174333
+Florida,2009-05,171315
+Florida,2009-06,168517
+Florida,2009-07,166287
+Florida,2009-08,164172
+Florida,2009-09,162180
+Florida,2009-10,160491
+Florida,2009-11,159472
+Florida,2009-12,158557
+Florida,2010-01,157820
+Florida,2010-02,157138
+Florida,2010-03,156791
+Florida,2010-04,156514
+Florida,2010-05,156065
+Florida,2010-06,155303
+Florida,2010-07,154205
+Florida,2010-08,152858
+Florida,2010-09,151372
+Florida,2010-10,149764
+Florida,2010-11,148116
+Florida,2010-12,146568
+Florida,2011-01,145018
+Florida,2011-02,143637
+Florida,2011-03,142292
+Florida,2011-04,141135
+Florida,2011-05,139969
+Florida,2011-06,138988
+Florida,2011-07,138043
+Florida,2011-08,137386
+Florida,2011-09,136859
+Florida,2011-10,136556
+Florida,2011-11,136352
+Florida,2011-12,136180
+Florida,2012-01,136147
+Florida,2012-02,136205
+Florida,2012-03,136589
+Florida,2012-04,137148
+Florida,2012-05,137778
+Florida,2012-06,138423
+Florida,2012-07,139174
+Florida,2012-08,140048
+Florida,2012-09,141019
+Florida,2012-10,142068
+Florida,2012-11,143125
+Florida,2012-12,144340
+Florida,2013-01,145781
+Florida,2013-02,147444
+Florida,2013-03,149181
+Florida,2013-04,150904
+Florida,2013-05,152783
+Florida,2013-06,154557
+Florida,2013-07,156525
+Florida,2013-08,158528
+Florida,2013-09,160677
+Florida,2013-10,162627
+Florida,2013-11,164489
+Florida,2013-12,166212
+Florida,2014-01,167801
+Florida,2014-02,169212
+Florida,2014-03,170505
+Florida,2014-04,171523
+Florida,2014-05,172470
+Florida,2014-06,173185
+Florida,2014-07,173970
+Florida,2014-08,174481
+Florida,2014-09,175221
+Florida,2014-10,176279
+Florida,2014-11,177426
+Florida,2014-12,178653
+Florida,2015-01,179741
+Florida,2015-02,181028
+Florida,2015-03,182132
+Florida,2015-04,183205
+Florida,2015-05,184269
+Florida,2015-06,185396
+Florida,2015-07,186453
+Florida,2015-08,187638
+Florida,2015-09,188974
+Florida,2015-10,190407
+Florida,2015-11,191745
+Florida,2015-12,193313
+Florida,2016-01,194862
+Florida,2016-02,196561
+Florida,2016-03,197838
+Florida,2016-04,199204
+Florida,2016-05,200371
+Florida,2016-06,201705
+Florida,2016-07,203015
+Florida,2016-08,204261
+Florida,2016-09,205390
+Florida,2016-10,206521
+Florida,2016-11,207896
+Florida,2016-12,209397
+Florida,2017-01,210777
+Florida,2017-02,212065
+Florida,2017-03,213249
+Florida,2017-04,214744
+Florida,2017-05,216122
+Florida,2017-06,217449
+Florida,2017-07,218537
+Florida,2017-08,219756
+Florida,2017-09,220952
+Florida,2017-10,222245
+Florida,2017-11,223520
+Florida,2017-12,224992
+Florida,2018-01,226037
+Florida,2018-02,227237
+Florida,2018-03,228520
+Florida,2018-04,230103
+Florida,2018-05,231569
+Florida,2018-06,232718
+Florida,2018-07,233709
+Florida,2018-08,234567
+Florida,2018-09,235466
+Florida,2018-10,236426
+Florida,2018-11,237569
+Florida,2018-12,238900
+Florida,2019-01,240058
+Florida,2019-02,240850
+Florida,2019-03,241338
+Florida,2019-04,241870
+Florida,2019-05,242285
+Florida,2019-06,242727
+Florida,2019-07,243195
+Florida,2019-08,243508
+Florida,2019-09,243821
+Florida,2019-10,244356
+Florida,2019-11,245190
+Florida,2019-12,246107
+Massachusetts,1996-04,152150
+Massachusetts,1996-05,152323
+Massachusetts,1996-06,152760
+Massachusetts,1996-07,153294
+Massachusetts,1996-08,154120
+Massachusetts,1996-09,154689
+Massachusetts,1996-10,155377
+Massachusetts,1996-11,155927
+Massachusetts,1996-12,156506
+Massachusetts,1997-01,156674
+Massachusetts,1997-02,156730
+Massachusetts,1997-03,156733
+Massachusetts,1997-04,156984
+Massachusetts,1997-05,157448
+Massachusetts,1997-06,158204
+Massachusetts,1997-07,159018
+Massachusetts,1997-08,159975
+Massachusetts,1997-09,160871
+Massachusetts,1997-10,161730
+Massachusetts,1997-11,162503
+Massachusetts,1997-12,163418
+Massachusetts,1998-01,164923
+Massachusetts,1998-02,166368
+Massachusetts,1998-03,167792
+Massachusetts,1998-04,168659
+Massachusetts,1998-05,169551
+Massachusetts,1998-06,170684
+Massachusetts,1998-07,171961
+Massachusetts,1998-08,173338
+Massachusetts,1998-09,174754
+Massachusetts,1998-10,176084
+Massachusetts,1998-11,177593
+Massachusetts,1998-12,178763
+Massachusetts,1999-01,180591
+Massachusetts,1999-02,182476
+Massachusetts,1999-03,184548
+Massachusetts,1999-04,186191
+Massachusetts,1999-05,187759
+Massachusetts,1999-06,189480
+Massachusetts,1999-07,191956
+Massachusetts,1999-08,193941
+Massachusetts,1999-09,195992
+Massachusetts,1999-10,197450
+Massachusetts,1999-11,199131
+Massachusetts,1999-12,201118
+Massachusetts,2000-01,203200
+Massachusetts,2000-02,205568
+Massachusetts,2000-03,207514
+Massachusetts,2000-04,209150
+Massachusetts,2000-05,210730
+Massachusetts,2000-06,212606
+Massachusetts,2000-07,215162
+Massachusetts,2000-08,218364
+Massachusetts,2000-09,221737
+Massachusetts,2000-10,225024
+Massachusetts,2000-11,228033
+Massachusetts,2000-12,231050
+Massachusetts,2001-01,233837
+Massachusetts,2001-02,236402
+Massachusetts,2001-03,238907
+Massachusetts,2001-04,241213
+Massachusetts,2001-05,243531
+Massachusetts,2001-06,246223
+Massachusetts,2001-07,249443
+Massachusetts,2001-08,253114
+Massachusetts,2001-09,256408
+Massachusetts,2001-10,259899
+Massachusetts,2001-11,263133
+Massachusetts,2001-12,266086
+Massachusetts,2002-01,268366
+Massachusetts,2002-02,270353
+Massachusetts,2002-03,272486
+Massachusetts,2002-04,274483
+Massachusetts,2002-05,276638
+Massachusetts,2002-06,279125
+Massachusetts,2002-07,282520
+Massachusetts,2002-08,286209
+Massachusetts,2002-09,290182
+Massachusetts,2002-10,294703
+Massachusetts,2002-11,299173
+Massachusetts,2002-12,303161
+Massachusetts,2003-01,306015
+Massachusetts,2003-02,308772
+Massachusetts,2003-03,311543
+Massachusetts,2003-04,314354
+Massachusetts,2003-05,316988
+Massachusetts,2003-06,319453
+Massachusetts,2003-07,321782
+Massachusetts,2003-08,324416
+Massachusetts,2003-09,327374
+Massachusetts,2003-10,330526
+Massachusetts,2003-11,333495
+Massachusetts,2003-12,336064
+Massachusetts,2004-01,338337
+Massachusetts,2004-02,340643
+Massachusetts,2004-03,343020
+Massachusetts,2004-04,345439
+Massachusetts,2004-05,347738
+Massachusetts,2004-06,350041
+Massachusetts,2004-07,352951
+Massachusetts,2004-08,356188
+Massachusetts,2004-09,360128
+Massachusetts,2004-10,363777
+Massachusetts,2004-11,366998
+Massachusetts,2004-12,369356
+Massachusetts,2005-01,371438
+Massachusetts,2005-02,374178
+Massachusetts,2005-03,376926
+Massachusetts,2005-04,379526
+Massachusetts,2005-05,381340
+Massachusetts,2005-06,382364
+Massachusetts,2005-07,383314
+Massachusetts,2005-08,384144
+Massachusetts,2005-09,385975
+Massachusetts,2005-10,387812
+Massachusetts,2005-11,389133
+Massachusetts,2005-12,388861
+Massachusetts,2006-01,388277
+Massachusetts,2006-02,387132
+Massachusetts,2006-03,386547
+Massachusetts,2006-04,385608
+Massachusetts,2006-05,384628
+Massachusetts,2006-06,383280
+Massachusetts,2006-07,381157
+Massachusetts,2006-08,379111
+Massachusetts,2006-09,376865
+Massachusetts,2006-10,375170
+Massachusetts,2006-11,373011
+Massachusetts,2006-12,370888
+Massachusetts,2007-01,369292
+Massachusetts,2007-02,368205
+Massachusetts,2007-03,367663
+Massachusetts,2007-04,366598
+Massachusetts,2007-05,365259
+Massachusetts,2007-06,363568
+Massachusetts,2007-07,361970
+Massachusetts,2007-08,360713
+Massachusetts,2007-09,359764
+Massachusetts,2007-10,358495
+Massachusetts,2007-11,356995
+Massachusetts,2007-12,355126
+Massachusetts,2008-01,352840
+Massachusetts,2008-02,350305
+Massachusetts,2008-03,347717
+Massachusetts,2008-04,345277
+Massachusetts,2008-05,343140
+Massachusetts,2008-06,341215
+Massachusetts,2008-07,339288
+Massachusetts,2008-08,337417
+Massachusetts,2008-09,335110
+Massachusetts,2008-10,332804
+Massachusetts,2008-11,330254
+Massachusetts,2008-12,327746
+Massachusetts,2009-01,325292
+Massachusetts,2009-02,322839
+Massachusetts,2009-03,320453
+Massachusetts,2009-04,318437
+Massachusetts,2009-05,317184
+Massachusetts,2009-06,316334
+Massachusetts,2009-07,315846
+Massachusetts,2009-08,315574
+Massachusetts,2009-09,315775
+Massachusetts,2009-10,316125
+Massachusetts,2009-11,316692
+Massachusetts,2009-12,317533
+Massachusetts,2010-01,318630
+Massachusetts,2010-02,319976
+Massachusetts,2010-03,320921
+Massachusetts,2010-04,321932
+Massachusetts,2010-05,322274
+Massachusetts,2010-06,322515
+Massachusetts,2010-07,321778
+Massachusetts,2010-08,320863
+Massachusetts,2010-09,319040
+Massachusetts,2010-10,317502
+Massachusetts,2010-11,316065
+Massachusetts,2010-12,315517
+Massachusetts,2011-01,314656
+Massachusetts,2011-02,313270
+Massachusetts,2011-03,311402
+Massachusetts,2011-04,310042
+Massachusetts,2011-05,308837
+Massachusetts,2011-06,308040
+Massachusetts,2011-07,307041
+Massachusetts,2011-08,306145
+Massachusetts,2011-09,304718
+Massachusetts,2011-10,303006
+Massachusetts,2011-11,301307
+Massachusetts,2011-12,300175
+Massachusetts,2012-01,299171
+Massachusetts,2012-02,298242
+Massachusetts,2012-03,298146
+Massachusetts,2012-04,298769
+Massachusetts,2012-05,299875
+Massachusetts,2012-06,300400
+Massachusetts,2012-07,300807
+Massachusetts,2012-08,301026
+Massachusetts,2012-09,301216
+Massachusetts,2012-10,301996
+Massachusetts,2012-11,303509
+Massachusetts,2012-12,305695
+Massachusetts,2013-01,307161
+Massachusetts,2013-02,309624
+Massachusetts,2013-03,312056
+Massachusetts,2013-04,314965
+Massachusetts,2013-05,317199
+Massachusetts,2013-06,319034
+Massachusetts,2013-07,320916
+Massachusetts,2013-08,322723
+Massachusetts,2013-09,324947
+Massachusetts,2013-10,326960
+Massachusetts,2013-11,328501
+Massachusetts,2013-12,329488
+Massachusetts,2014-01,330514
+Massachusetts,2014-02,331451
+Massachusetts,2014-03,333241
+Massachusetts,2014-04,335304
+Massachusetts,2014-05,337193
+Massachusetts,2014-06,338285
+Massachusetts,2014-07,338806
+Massachusetts,2014-08,339204
+Massachusetts,2014-09,339094
+Massachusetts,2014-10,338856
+Massachusetts,2014-11,339007
+Massachusetts,2014-12,340452
+Massachusetts,2015-01,342711
+Massachusetts,2015-02,344817
+Massachusetts,2015-03,346467
+Massachusetts,2015-04,347326
+Massachusetts,2015-05,348518
+Massachusetts,2015-06,349328
+Massachusetts,2015-07,350649
+Massachusetts,2015-08,351672
+Massachusetts,2015-09,352638
+Massachusetts,2015-10,353671
+Massachusetts,2015-11,354333
+Massachusetts,2015-12,355009
+Massachusetts,2016-01,356258
+Massachusetts,2016-02,358470
+Massachusetts,2016-03,360687
+Massachusetts,2016-04,363284
+Massachusetts,2016-05,365653
+Massachusetts,2016-06,367763
+Massachusetts,2016-07,368451
+Massachusetts,2016-08,368741
+Massachusetts,2016-09,369797
+Massachusetts,2016-10,371056
+Massachusetts,2016-11,373204
+Massachusetts,2016-12,374887
+Massachusetts,2017-01,376765
+Massachusetts,2017-02,378099
+Massachusetts,2017-03,379715
+Massachusetts,2017-04,382384
+Massachusetts,2017-05,385324
+Massachusetts,2017-06,388404
+Massachusetts,2017-07,390792
+Massachusetts,2017-08,391918
+Massachusetts,2017-09,393109
+Massachusetts,2017-10,393817
+Massachusetts,2017-11,395797
+Massachusetts,2017-12,397616
+Massachusetts,2018-01,400075
+Massachusetts,2018-02,402896
+Massachusetts,2018-03,405799
+Massachusetts,2018-04,408271
+Massachusetts,2018-05,410313
+Massachusetts,2018-06,412247
+Massachusetts,2018-07,413725
+Massachusetts,2018-08,414373
+Massachusetts,2018-09,414340
+Massachusetts,2018-10,414369
+Massachusetts,2018-11,414522
+Massachusetts,2018-12,415499
+Massachusetts,2019-01,416495
+Massachusetts,2019-02,417138
+Massachusetts,2019-03,417470
+Massachusetts,2019-04,418339
+Massachusetts,2019-05,419642
+Massachusetts,2019-06,420883
+Massachusetts,2019-07,420877
+Massachusetts,2019-08,420704
+Massachusetts,2019-09,420867
+Massachusetts,2019-10,421349
+Massachusetts,2019-11,422068
+Massachusetts,2019-12,423344
+North Carolina,1996-04,109624
+North Carolina,1996-05,109926
+North Carolina,1996-06,110354
+North Carolina,1996-07,110874
+North Carolina,1996-08,111446
+North Carolina,1996-09,111921
+North Carolina,1996-10,112420
+North Carolina,1996-11,112953
+North Carolina,1996-12,113499
+North Carolina,1997-01,114077
+North Carolina,1997-02,114584
+North Carolina,1997-03,115128
+North Carolina,1997-04,115587
+North Carolina,1997-05,116032
+North Carolina,1997-06,116453
+North Carolina,1997-07,116880
+North Carolina,1997-08,117429
+North Carolina,1997-09,118051
+North Carolina,1997-10,118509
+North Carolina,1997-11,118902
+North Carolina,1997-12,119238
+North Carolina,1998-01,119705
+North Carolina,1998-02,120058
+North Carolina,1998-03,120343
+North Carolina,1998-04,120601
+North Carolina,1998-05,121017
+North Carolina,1998-06,121542
+North Carolina,1998-07,122128
+North Carolina,1998-08,122603
+North Carolina,1998-09,123055
+North Carolina,1998-10,123527
+North Carolina,1998-11,124013
+North Carolina,1998-12,124466
+North Carolina,1999-01,124812
+North Carolina,1999-02,125202
+North Carolina,1999-03,125525
+North Carolina,1999-04,125928
+North Carolina,1999-05,126230
+North Carolina,1999-06,126574
+North Carolina,1999-07,126963
+North Carolina,1999-08,127321
+North Carolina,1999-09,127723
+North Carolina,1999-10,128059
+North Carolina,1999-11,128540
+North Carolina,1999-12,129044
+North Carolina,2000-01,129555
+North Carolina,2000-02,130091
+North Carolina,2000-03,130570
+North Carolina,2000-04,131082
+North Carolina,2000-05,131554
+North Carolina,2000-06,132058
+North Carolina,2000-07,132546
+North Carolina,2000-08,132988
+North Carolina,2000-09,133431
+North Carolina,2000-10,133895
+North Carolina,2000-11,134503
+North Carolina,2000-12,135134
+North Carolina,2001-01,135810
+North Carolina,2001-02,136221
+North Carolina,2001-03,136537
+North Carolina,2001-04,136716
+North Carolina,2001-05,136973
+North Carolina,2001-06,137240
+North Carolina,2001-07,137506
+North Carolina,2001-08,137845
+North Carolina,2001-09,138183
+North Carolina,2001-10,138556
+North Carolina,2001-11,138841
+North Carolina,2001-12,139116
+North Carolina,2002-01,139379
+North Carolina,2002-02,139576
+North Carolina,2002-03,139739
+North Carolina,2002-04,139768
+North Carolina,2002-05,139908
+North Carolina,2002-06,140058
+North Carolina,2002-07,140339
+North Carolina,2002-08,140588
+North Carolina,2002-09,140847
+North Carolina,2002-10,141088
+North Carolina,2002-11,141343
+North Carolina,2002-12,141625
+North Carolina,2003-01,141925
+North Carolina,2003-02,142156
+North Carolina,2003-03,142335
+North Carolina,2003-04,142417
+North Carolina,2003-05,142552
+North Carolina,2003-06,142700
+North Carolina,2003-07,142956
+North Carolina,2003-08,143285
+North Carolina,2003-09,143626
+North Carolina,2003-10,143944
+North Carolina,2003-11,144248
+North Carolina,2003-12,144621
+North Carolina,2004-01,145022
+North Carolina,2004-02,145375
+North Carolina,2004-03,145629
+North Carolina,2004-04,145853
+North Carolina,2004-05,146070
+North Carolina,2004-06,146415
+North Carolina,2004-07,146806
+North Carolina,2004-08,147250
+North Carolina,2004-09,147732
+North Carolina,2004-10,148245
+North Carolina,2004-11,148793
+North Carolina,2004-12,149342
+North Carolina,2005-01,149741
+North Carolina,2005-02,150169
+North Carolina,2005-03,150488
+North Carolina,2005-04,150968
+North Carolina,2005-05,151470
+North Carolina,2005-06,152194
+North Carolina,2005-07,153017
+North Carolina,2005-08,153923
+North Carolina,2005-09,154780
+North Carolina,2005-10,155673
+North Carolina,2005-11,156495
+North Carolina,2005-12,157305
+North Carolina,2006-01,158030
+North Carolina,2006-02,158699
+North Carolina,2006-03,159373
+North Carolina,2006-04,160078
+North Carolina,2006-05,160906
+North Carolina,2006-06,161769
+North Carolina,2006-07,162722
+North Carolina,2006-08,163705
+North Carolina,2006-09,164631
+North Carolina,2006-10,165453
+North Carolina,2006-11,166121
+North Carolina,2006-12,166750
+North Carolina,2007-01,167386
+North Carolina,2007-02,167909
+North Carolina,2007-03,168481
+North Carolina,2007-04,169031
+North Carolina,2007-05,169690
+North Carolina,2007-06,170355
+North Carolina,2007-07,170950
+North Carolina,2007-08,171523
+North Carolina,2007-09,171938
+North Carolina,2007-10,172252
+North Carolina,2007-11,172482
+North Carolina,2007-12,172631
+North Carolina,2008-01,172720
+North Carolina,2008-02,172688
+North Carolina,2008-03,172647
+North Carolina,2008-04,172518
+North Carolina,2008-05,172333
+North Carolina,2008-06,171977
+North Carolina,2008-07,171524
+North Carolina,2008-08,171082
+North Carolina,2008-09,170610
+North Carolina,2008-10,170129
+North Carolina,2008-11,169439
+North Carolina,2008-12,168632
+North Carolina,2009-01,167756
+North Carolina,2009-02,167158
+North Carolina,2009-03,166632
+North Carolina,2009-04,165998
+North Carolina,2009-05,165198
+North Carolina,2009-06,164391
+North Carolina,2009-07,163694
+North Carolina,2009-08,162887
+North Carolina,2009-09,162223
+North Carolina,2009-10,161711
+North Carolina,2009-11,161405
+North Carolina,2009-12,161024
+North Carolina,2010-01,160653
+North Carolina,2010-02,160196
+North Carolina,2010-03,159861
+North Carolina,2010-04,159727
+North Carolina,2010-05,159687
+North Carolina,2010-06,159503
+North Carolina,2010-07,158974
+North Carolina,2010-08,158317
+North Carolina,2010-09,157606
+North Carolina,2010-10,156952
+North Carolina,2010-11,156247
+North Carolina,2010-12,155570
+North Carolina,2011-01,154818
+North Carolina,2011-02,154125
+North Carolina,2011-03,153390
+North Carolina,2011-04,152600
+North Carolina,2011-05,151892
+North Carolina,2011-06,151293
+North Carolina,2011-07,150792
+North Carolina,2011-08,150245
+North Carolina,2011-09,149793
+North Carolina,2011-10,149209
+North Carolina,2011-11,148631
+North Carolina,2011-12,148069
+North Carolina,2012-01,147654
+North Carolina,2012-02,147388
+North Carolina,2012-03,147281
+North Carolina,2012-04,147438
+North Carolina,2012-05,147477
+North Carolina,2012-06,147382
+North Carolina,2012-07,147235
+North Carolina,2012-08,147269
+North Carolina,2012-09,147279
+North Carolina,2012-10,147319
+North Carolina,2012-11,147334
+North Carolina,2012-12,147377
+North Carolina,2013-01,147487
+North Carolina,2013-02,147683
+North Carolina,2013-03,148131
+North Carolina,2013-04,148628
+North Carolina,2013-05,149191
+North Carolina,2013-06,149679
+North Carolina,2013-07,150146
+North Carolina,2013-08,150615
+North Carolina,2013-09,151005
+North Carolina,2013-10,151458
+North Carolina,2013-11,151815
+North Carolina,2013-12,152323
+North Carolina,2014-01,152768
+North Carolina,2014-02,153322
+North Carolina,2014-03,153774
+North Carolina,2014-04,154171
+North Carolina,2014-05,154466
+North Carolina,2014-06,154638
+North Carolina,2014-07,154749
+North Carolina,2014-08,154769
+North Carolina,2014-09,154868
+North Carolina,2014-10,155010
+North Carolina,2014-11,155310
+North Carolina,2014-12,155643
+North Carolina,2015-01,156107
+North Carolina,2015-02,156666
+North Carolina,2015-03,157415
+North Carolina,2015-04,158069
+North Carolina,2015-05,158600
+North Carolina,2015-06,159031
+North Carolina,2015-07,159532
+North Carolina,2015-08,160091
+North Carolina,2015-09,160555
+North Carolina,2015-10,160978
+North Carolina,2015-11,161321
+North Carolina,2015-12,161651
+North Carolina,2016-01,162051
+North Carolina,2016-02,162625
+North Carolina,2016-03,163212
+North Carolina,2016-04,163942
+North Carolina,2016-05,164736
+North Carolina,2016-06,165639
+North Carolina,2016-07,166437
+North Carolina,2016-08,167162
+North Carolina,2016-09,167943
+North Carolina,2016-10,168743
+North Carolina,2016-11,169604
+North Carolina,2016-12,170504
+North Carolina,2017-01,171366
+North Carolina,2017-02,172227
+North Carolina,2017-03,173194
+North Carolina,2017-04,174265
+North Carolina,2017-05,175247
+North Carolina,2017-06,176045
+North Carolina,2017-07,176662
+North Carolina,2017-08,177342
+North Carolina,2017-09,178133
+North Carolina,2017-10,179166
+North Carolina,2017-11,180181
+North Carolina,2017-12,181260
+North Carolina,2018-01,182326
+North Carolina,2018-02,183532
+North Carolina,2018-03,184657
+North Carolina,2018-04,185701
+North Carolina,2018-05,186710
+North Carolina,2018-06,187701
+North Carolina,2018-07,188738
+North Carolina,2018-08,189672
+North Carolina,2018-09,190613
+North Carolina,2018-10,191437
+North Carolina,2018-11,192403
+North Carolina,2018-12,193373
+North Carolina,2019-01,194395
+North Carolina,2019-02,195353
+North Carolina,2019-03,196282
+North Carolina,2019-04,197311
+North Carolina,2019-05,198162
+North Carolina,2019-06,198952
+North Carolina,2019-07,199596
+North Carolina,2019-08,200234
+North Carolina,2019-09,200973
+North Carolina,2019-10,201861
+North Carolina,2019-11,202789
+North Carolina,2019-12,203661
