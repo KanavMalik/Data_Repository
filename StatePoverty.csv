@@ -1,6 +1,4 @@
 Date,State,Poverty_Index
-2004-01-01,California,13.2
-2005-01-01,California,13.3
 2006-01-01,California,13.1
 2007-01-01,California,12.4
 2008-01-01,California,13.3
@@ -8,10 +6,6 @@ Date,State,Poverty_Index
 2010-01-01,California,15.8
 2011-01-01,California,16.6
 2012-01-01,California,17.0
-2013-01-01,California,16.8
-2014-01-01,California,16.4
-2004-01-01,Florida,11.9
-2005-01-01,Florida,12.8
 2006-01-01,Florida,12.6
 2007-01-01,Florida,12.1
 2008-01-01,Florida,13.3
@@ -19,10 +13,6 @@ Date,State,Poverty_Index
 2010-01-01,Florida,16.5
 2011-01-01,Florida,17.0
 2012-01-01,Florida,17.2
-2013-01-01,Florida,17.1
-2014-01-01,Florida,16.6
-2004-01-01,Arizona,14.6
-2005-01-01,Arizona,14.4
 2006-01-01,Arizona,14.2
 2007-01-01,Arizona,14.1
 2008-01-01,Arizona,14.7
@@ -30,10 +20,6 @@ Date,State,Poverty_Index
 2010-01-01,Arizona,17.6
 2011-01-01,Arizona,19.0
 2012-01-01,Arizona,18.7
-2013-01-01,Arizona,18.6
-2014-01-01,Arizona,18.2
-2004-01-01,Michigan,12.5
-2005-01-01,Michigan,13.1
 2006-01-01,Michigan,13.5
 2007-01-01,Michigan,13.9
 2008-01-01,Michigan,14.4
@@ -41,8 +27,6 @@ Date,State,Poverty_Index
 2010-01-01,Michigan,16.7
 2011-01-01,Michigan,17.5
 2012-01-01,Michigan,17.4
-2013-01-01,Michigan,17.0
-2014-01-01,Michigan,16.2
 ,,
 ,,
 ,,
